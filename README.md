@@ -6,4 +6,5 @@ Currently, most research institutions rely on time-intensive—and sometimes ina
 
 The goal is not only to reach a higher accuracy in terms of classification but also to understand how and why the models are classifying the species and what features are they looking into.
 
-![Screenshot](image.png)
+
+![image](https://user-images.githubusercontent.com/84591662/174484393-d466868e-290f-4c9d-95d7-9aba9b358bd2.png)
